@@ -1,1 +1,1 @@
-#Learning Full stacj in rapoal techologies
+#Learning Full stack in rapsol techologies
